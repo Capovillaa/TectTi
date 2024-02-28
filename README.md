@@ -1,2 +1,2 @@
-# TectTi
+# TecTi
 Repositório tecnologias de TI
